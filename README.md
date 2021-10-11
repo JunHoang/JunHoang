@@ -7,7 +7,7 @@
 
 - 👨‍💻 Know more about me at [https://dunghoang-portfolio.netlify.app/](https://dunghoang-portfolio.netlify.app/)
 
-- 💬 Ask me about **React, React Native, AWS, Firebase**
+- 💬 Ask me about **React, React Native, Firebase**
 
 - 📫 How to reach me **kathymaidung@gmail.com**
 
