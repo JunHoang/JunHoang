@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **dunghoang.lhp@gmail.com**
 
-- 📄 Know about my experiences at [Dung's CV](https://assets.ctfassets.net/449mcwf87tn4/5050fc5d-dbd7-40a8-9e8e-e6ff45eface6/0320fb28f0c68e1264e94a1f7cea276b/Dung_Hoang5050fc5d-dbd7-40a8-9e8e-e6ff45eface6ac1e9500-66ec-487b-8fe3-f85bbd40e3a1-cv.pdf)
+- 📄 Know about my experiences at [Dung's CV](https://drive.google.com/file/d/1CT4Z_2ykmRa22pTTAdXU2WotmIjMy8-t/view?usp=sharing)
 
 - ⚡ Fun fact **I make delicious milktea 🥤 & cheesecake 🍰**
 
