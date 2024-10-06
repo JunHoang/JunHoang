@@ -25,5 +25,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=junhoang&show_icons=true&locale=en&layout=compact" alt="junhoang" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=junhoang&show_icons=true&locale=en" alt="junhoang" /></p>
+<!---<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=junhoang&show_icons=true&locale=en" alt="junhoang" /></p>--->
 
